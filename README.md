@@ -1,4 +1,15 @@
-# ImageApp
+# Angular 17 File Upload with Validation Example
+
+  Build File Upload example using Angular 17, Bootstrap, and FormData with Progress Bars.
+  - Step 1: Create Angular 17 Project
+  - Step 2: Create File Upload Component
+  - Step 3: Import Component
+  - Step 4: Use New Component
+  - Step 5: Create API Endpoint
+  - Run PHP & Angular App
+
+For more details, please visit:
+> [Angular 17 Image upload with Preview example](https://www.itsolutionstuff.com/post/angular-17-image-upload-with-preview-exampleexample.html)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.0.
 
