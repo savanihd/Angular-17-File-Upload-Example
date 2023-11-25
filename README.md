@@ -9,7 +9,7 @@
   - Run PHP & Angular App
 
 For more details, please visit:
-> [Angular 17 Image upload with Preview example](https://www.itsolutionstuff.com/post/angular-17-image-upload-with-preview-exampleexample.html)
+> [Angular 17 File upload with Example](https://www.itsolutionstuff.com/post/angular-17-file-upload-tutorial-exampleexample.html)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.0.
 
